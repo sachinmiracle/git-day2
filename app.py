@@ -4,7 +4,7 @@ def greet(name):
     return f"Hello, {name}! Welcome to Python."
 
 # User input
-name = input("Enter your name: ")
+name = input("Enter your name: Sachin mirkale")
 
 # Call function
 message = greet(name)
